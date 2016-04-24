@@ -2,16 +2,23 @@
     <channel>
         <title><![CDATA[Lalala]]></title>
         <description><![CDATA[Lalala]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/lalala/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Apr 2016 19:39:02 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 24 Apr 2016 20:24:24 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/lalala/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>This Grid thing is funny. I like it but they took forever.</p>]]></description>
-            <link>undefinedthis-grid-thing-is-funny-i-like-it-but-they-took-forever/index.html</link>
+            <link>https://thegrid.ai/lalala/this-grid-thing-is-funny-i-like-it-but-they-took-forever/index.html</link>
             <guid isPermaLink="false">4378e2bd-48f1-43fd-a81f-f783e77bdb6b</guid>
             <pubDate>Sun, 24 Apr 2016 19:38:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Whatever</p>]]></description>
+            <link>https://thegrid.ai/lalala/whatever/index.html</link>
+            <guid isPermaLink="false">870426bd-a134-4f84-81b2-0fb6b11c15e7</guid>
+            <pubDate>Sun, 24 Apr 2016 20:23:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
